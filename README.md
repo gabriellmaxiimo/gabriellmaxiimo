@@ -5,7 +5,8 @@
   </p>
   
   <p align="center">
-    <a href="https://www.gabrielmaximo.dev"><img src="https://img.shields.io/badge/Portfólio-gabrielmaximo.dev-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+    <a href="https://www.gabrielmaximo.dev"><img src="assets/badge-portfolio.svg" alt="Portfólio"></a>
+    <a href="https://www.linkedin.com/in/gabriellmaxiimo/"><img src="assets/badge-linkedin.svg" alt="LinkedIn"></a>
   </p>
   
   ---
@@ -22,18 +23,18 @@
   ### 🛠️ Stack & Tecnologias
   
   <p align="center">
-    <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/></a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/></a>
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>
-    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/></a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/5DA9E9" width="40" height="40" alt="MySQL" title="MySQL"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/></a>
-    <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman"/></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/></a>
+    <a href="https://www.java.com/" target="_blank"><img src="assets/java.svg" width="40" height="40" alt="Java" title="Java"/></a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="assets/spring.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></a>
+    <a href="https://react.dev/" target="_blank"><img src="assets/react.svg" width="40" height="40" alt="React" title="React"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="assets/javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="assets/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="assets/html5.svg" width="40" height="40" alt="HTML5" title="HTML5"/></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="assets/css3.svg" width="40" height="40" alt="CSS3" title="CSS3"/></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="assets/mysql.svg" width="40" height="40" alt="MySQL" title="MySQL"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="assets/mongodb.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="assets/docker.svg" width="40" height="40" alt="Docker" title="Docker"/></a>
+    <a href="https://www.postman.com/" target="_blank"><img src="assets/postman.svg" width="40" height="40" alt="Postman" title="Postman"/></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="assets/git.svg" width="40" height="40" alt="Git" title="Git"/></a>
   </p>
   
   **Infra & Fundamentos:** Redes (TCP/IP, DNS, DHCP) · Sistemas Operacionais (Windows/Terminal) · Hardware & Manutenção
@@ -69,7 +70,7 @@
     <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/gabriellmaxiimo/gabriellmaxiimo/output/pacman-contribution-graph.svg">
   </picture>
   
-  <img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B949E&section=footer"/>
+  <img align="center" alt="Footer" src="assets/footer-wave.svg"/>
   
   ---
   
@@ -78,11 +79,11 @@
   <div align="center">
   <table>
   <tr>
-  <td><a href="https://www.gabrielmaximo.dev" target="_blank"><img src="https://img.icons8.com/fluency/96/domain.png" width="50px" height="50px" alt="Portfólio"/></a></td>
-  <td><a href="https://github.com/gabriellmaxiimo" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px" alt="GitHub"/></a></td>
-  <td><a href="mailto:gabrielmcastro121@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="E-mail"/></a></td>
-  <td><a href="https://www.instagram.com/gmaxiimo" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px" alt="Instagram"/></a></td>
-  <td><a href="https://www.linkedin.com/in/gabriellmaxiimo/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px" alt="LinkedIn"/></a></td>
+  <td><a href="https://www.gabrielmaximo.dev" target="_blank"><img src="assets/portfolio.svg" width="50px" height="50px" alt="Portfólio"/></a></td>
+  <td><a href="https://github.com/gabriellmaxiimo" target="_blank"><img src="assets/github.svg" width="50px" height="50px" alt="GitHub"/></a></td>
+  <td><a href="mailto:gabrielmcastro121@gmail.com" target="_blank"><img src="assets/gmail.svg" width="50px" height="50px" alt="E-mail"/></a></td>
+  <td><a href="https://www.instagram.com/gmaxiimo" target="_blank"><img src="assets/instagram.svg" width="50px" height="50px" alt="Instagram"/></a></td>
+  <td><a href="https://www.linkedin.com/in/gabriellmaxiimo/" target="_blank"><img src="assets/linkedin.svg" width="50px" height="50px" alt="LinkedIn"/></a></td>
   </tr>
   </table>
   </div>
