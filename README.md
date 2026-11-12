@@ -16,8 +16,6 @@ Sou o **Gabriel Máximo de Castro** e curso Engenharia de Software na PUC Minas 
 
 - 🚀 Gosto de tecnologia, tomo iniciativa e penso de forma analítica
 - 📚 Atualmente me aprofundando em back-end com Java e Spring
-- 💙 Torcedor fanático do **Cruzeiro Esporte Clube** 🦊
-
 ---
 
 ### 🛠️ Stack & Tecnologias
@@ -61,7 +59,22 @@ Sou o **Gabriel Máximo de Castro** e curso Engenharia de Software na PUC Minas 
 
 ---
 
+### 👾 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellmaxiimo/gabriellmaxiimo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellmaxiimo/gabriellmaxiimo/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo meu gráfico de contribuições" src="https://raw.githubusercontent.com/gabriellmaxiimo/gabriellmaxiimo/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+### 📫 Contatos
+
 <p align="center">
-  <a href="https://www.gabrielmaximo.dev">🌐 gabrielmaximo.dev</a> ·
-  <a href="https://github.com/gabriellmaxiimo">🐙 @gabriellmaxiimo</a>
+  <a href="https://www.gabrielmaximo.dev"><img src="https://img.shields.io/badge/Portfólio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:gabrielmcastro121@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/gabriellmaxiimo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/gmaxiimo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/gabriellmaxiimo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
