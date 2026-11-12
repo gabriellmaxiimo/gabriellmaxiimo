@@ -53,8 +53,8 @@ Sou o **Gabriel Máximo de Castro** e curso Engenharia de Software na PUC Minas 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriellmaxiimo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellmaxiimo&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriellmaxiimo&theme=tokyonight" alt="GitHub Stats">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriellmaxiimo&theme=tokyonight" alt="Linguagens mais usadas">
 </p>
 
 ---
